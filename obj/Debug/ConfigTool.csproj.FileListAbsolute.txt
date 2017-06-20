@@ -1,0 +1,11 @@
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\obj\Debug\ConfigTool.csprojResolveAssemblyReference.cache
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\obj\Debug\ConfigTool.Form1.resources
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\obj\Debug\ConfigTool.Properties.Resources.resources
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\obj\Debug\ConfigTool.csproj.GenerateResource.Cache
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\obj\Debug\ConfigTool.csprojResolveAssemblyReference.cache
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\obj\Debug\ConfigTool.Form1.resources
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\obj\Debug\ConfigTool.Properties.Resources.resources
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\obj\Debug\ConfigTool.csproj.GenerateResource.Cache
+D:\Source\Repos\Switchy McPortface\ConfigTool\obj\Debug\ConfigTool.Form1.resources
+D:\Source\Repos\Switchy McPortface\ConfigTool\obj\Debug\ConfigTool.Properties.Resources.resources
+D:\Source\Repos\Switchy McPortface\ConfigTool\obj\Debug\ConfigTool.csproj.GenerateResource.Cache

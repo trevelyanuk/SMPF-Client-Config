@@ -1,0 +1,18 @@
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\bin\Release\ConfigTool.exe.config
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\bin\Release\ConfigTool.exe
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\bin\Release\ConfigTool.pdb
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\obj\Release\ConfigTool.csprojResolveAssemblyReference.cache
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\obj\Release\ConfigTool.Form1.resources
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\obj\Release\ConfigTool.Properties.Resources.resources
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\obj\Release\ConfigTool.csproj.GenerateResource.Cache
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\obj\Release\ConfigTool.exe
+C:\Users\OTB\Source\Workspaces\Tests\ConfigTool\obj\Release\ConfigTool.pdb
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\bin\Release\ConfigTool.exe.config
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\bin\Release\ConfigTool.exe
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\bin\Release\ConfigTool.pdb
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\obj\Release\ConfigTool.csprojResolveAssemblyReference.cache
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\obj\Release\ConfigTool.Form1.resources
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\obj\Release\ConfigTool.Properties.Resources.resources
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\obj\Release\ConfigTool.csproj.GenerateResource.Cache
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\obj\Release\ConfigTool.exe
+C:\Users\OTB\Source\Repos\Switchy McPortface\ConfigTool\obj\Release\ConfigTool.pdb
