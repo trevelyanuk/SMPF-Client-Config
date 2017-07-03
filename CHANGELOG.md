@@ -13,13 +13,14 @@
 
 ## Change history
 ### 2016-06-22
+**Version 0.2**
 The configuration tool's UI has been tweaked a bit further
 
 * To do
   * Option to generate a log file
   
 ### 2016-05-26
-** Version 0.1 **
+**Version 0.1**
 Configuration file maker is now a reality and can read from and write to a configuration file
 
 * Fixed
